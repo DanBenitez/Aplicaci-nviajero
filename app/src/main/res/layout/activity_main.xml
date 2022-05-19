@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical">
+
+    <com.google.android.material.appbar.MaterialToolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="?actionBarSize"
+        android:background="@drawable/toolbar_bg_default"
+        >
+        <ImageView
+            android:layout_width="55dp"
+            android:layout_height="55dp"
+            android:src="@drawable/imglogo"
+            >
+        </ImageView>
+        <TextView
+            android:id="@+id/titulo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Cuadernillo viajero"
+            android:textStyle="bold"
+            android:fontFamily="sans-serif-black"
+            android:textSize="15pt"
+            android:textColor="#DD880A"
+            android:layout_marginLeft="50dp"
+            />
+
+    </com.google.android.material.appbar.MaterialToolbar>
+
+    <GridView
+        android:id="@+id/list_secciones"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:numColumns="2"
+        android:verticalSpacing="2dp"
+        android:padding="10dp"
+        android:layout_gravity="center"
+        android:gravity="center"/>
+
+
+
+</LinearLayout>

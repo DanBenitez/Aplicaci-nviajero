@@ -1,0 +1,46 @@
+{
+  "sectionlibro": [
+    {
+      "id": 1,
+      "nombre": "Datos personales",
+      "urlImage": "https://clubelohe.files.wordpress.com/2010/06/conqui6.jpg",
+      "contenido": "",
+      "urlImagelibro": "https://imgv2-1-f.scribdassets.com/img/document/410007881/original/31fdbd5f9a/1646652520?v=1"
+    },
+    {
+      "id": 2,
+      "nombre": "Ideales",
+      "urlImage": "https://play-lh.googleusercontent.com/JPFHkcI5uS30CRcWF26ROHrsVTNYlvmVrGqbsan0yrjgf9CP0TyysYv-ucpDqmfVLA",
+      "contenido": "",
+      "urlImagelibro": "https://slideplayer.es/3047604/11/images/slide_1.jpg"
+    },
+    {
+      "id": 3,
+      "nombre": "Actividades",
+      "urlImage": "https://1.bp.blogspot.com/-ddMDKyy11eg/YDLIVlYBaXI/AAAAAAAASBI/UTQJRUp7t1E9vMGl7gfcSOiuP3OePut6wCLcBGAsYHQ/w1200-h630-p-k-no-nu/cuadernillo-guia.jpg",
+      "contenido": "",
+      "urlImagelibro": "https://image.slideserve.com/180694/slide16-l.jpg"
+    },
+    {
+      "id": 4,
+      "nombre": "Especialidades",
+      "urlImage": "https://http2.mlstatic.com/D_NQ_NP_816340-MLA43752675069_102020-O.webp",
+      "contenido": "",
+      "urlImagelibro": "https://image.isu.pub/190114073028-c1d06ffd0483c4a534e7f88828feebd9/jpg/page_1_thumb_large.jpg"
+    },
+    {
+      "id": 5,
+      "nombre": "Reglamento",
+      "urlImage": "https://www.gob.mx/cms/uploads/action_program/main_image/15359/post_REGLAMENTOS.jpg",
+      "contenido": "",
+      "urlImagelibro": "https://docplayer.es/docs-images/41/14215071/images/page_5.jpg"
+    },
+    {
+      "id": 6,
+      "nombre": "Himno conquitadores",
+      "urlImage": "https://static.elcorreo.com/www/multimedia/201905/30/media/cortadas/notas-U70926235217hw-U80402286587YrB-624x385@El%20Correo-ElCorreo.jpg",
+      "contenido": "",
+      "urlImagelibro": "https://slideplayer.es/slide/3047604/11/images/7/Himno+de+los+Conquistadores.jpg"
+    }
+  ]
+}
